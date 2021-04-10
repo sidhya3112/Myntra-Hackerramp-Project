@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70365378478",
+    "firebase_url": "https://shoppyy-f0811-default-rtdb.firebaseio.com",
+    "project_id": "shoppyy-f0811",
+    "storage_bucket": "shoppyy-f0811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70365378478:android:b077d4c1024b0fc1087a3f",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70365378478-aqhg6craf43a1mvjmivlj9q4martks8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopping_app",
+            "certificate_hash": "05f91f3e90db8372c5f873f9334a49f9bdb7a17d"
+          }
+        },
+        {
+          "client_id": "70365378478-no49qd6eiq0humikatkm1iv40d13bts3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPW29J5UQC5rTEaDkNvNR1YvFSm1rpVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70365378478-no49qd6eiq0humikatkm1iv40d13bts3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
