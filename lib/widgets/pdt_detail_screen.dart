@@ -180,7 +180,7 @@ class DetailPage extends StatelessWidget {
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         color: Colors.white,
-                        fontSize: 16.0,
+                        fontSize: 14.0,
                       ),
                     )),
               ),
@@ -213,7 +213,7 @@ class DetailPage extends StatelessWidget {
                 padding: const EdgeInsets.fromLTRB(12.0, 5.0, 5.0, 5.0),
                 child: new Text(
                   "Product name",
-                  style: TextStyle(color: Colors.grey, fontSize: 16),
+                  style: TextStyle(color: Colors.grey, fontSize: 14),
                 ),
               ),
               Padding(
@@ -226,7 +226,7 @@ class DetailPage extends StatelessWidget {
                 padding: const EdgeInsets.fromLTRB(12.0, 5.0, 5.0, 5.0),
                 child: new Text(
                   "Product brand",
-                  style: TextStyle(color: Colors.grey, fontSize: 16),
+                  style: TextStyle(color: Colors.grey, fontSize: 14),
                 ),
               ),
               Padding(padding: EdgeInsets.all(5.0), child: new Text("Brand X"))
@@ -240,12 +240,12 @@ class DetailPage extends StatelessWidget {
                   children: <Widget>[
                     new Text(
                       "Share this product:",
-                      style: TextStyle(color: Colors.grey, fontSize: 15),
+                      style: TextStyle(color: Colors.grey, fontSize: 14),
                     ),
                     InkWell(
                       child: new SelectableText(
                         "${loadedPdt.Url}",
-                        style: TextStyle(color: Colors.black, fontSize: 12),
+                        style: TextStyle(color: Colors.black, fontSize: 11),
                       ),
                     ),
                   ],

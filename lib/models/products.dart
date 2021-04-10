@@ -36,7 +36,7 @@ class Products with ChangeNotifier {
         price: 999,
         size: "M",
         color: "Red",
-        Url: "https://shopping_app.com/red_dress"),
+        Url: "https://shoppyyy.page.link/red_dress"),
     Product(
         id: '2',
         name: "Black Blazer",
@@ -47,7 +47,7 @@ class Products with ChangeNotifier {
         price: 999,
         size: "L",
         color: "Black",
-        Url: "https://shopping_app.com/black_blazer"),
+        Url: "https://shoppyyy.page.link/black_blazer"),
     Product(
         id: '3',
         name: "Blue Top",
@@ -58,7 +58,7 @@ class Products with ChangeNotifier {
         price: 799,
         size: "M",
         color: "Blue",
-        Url: "https://shopping_app.com/blue_top"),
+        Url: "https://shoppyyy.page.link/blue_top"),
     Product(
         id: '4',
         name: "Party Frock",
@@ -69,7 +69,7 @@ class Products with ChangeNotifier {
         price: 1299,
         size: "S",
         color: "Peach",
-        Url: "https://shopping_app.com/party_frock"),
+        Url: "https://shoppyyy.page.link/party_frock"),
     Product(
         id: '5',
         name: "Black Heels",
@@ -80,7 +80,7 @@ class Products with ChangeNotifier {
         price: 999,
         size: "8",
         color: "Black",
-        Url: "https://shopping_app.com/black_heels"),
+        Url: "https://shoppyyy.page.link/black_heels"),
     Product(
         id: '6',
         name: "Handbag",
@@ -91,7 +91,7 @@ class Products with ChangeNotifier {
         price: 999,
         size: "L",
         color: "Brown",
-        Url: "https://shopping_app.com/handbag"),
+        Url: "https://shoppyyy.page.link/handbag"),
   ];
 
   List<Product> get items {
