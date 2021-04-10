@@ -22,14 +22,15 @@ With this feature you can share product links with your friends and family membe
 1) We have created an attractive UI for an e-commerce app using certain animations and widgets to show various features have we have implemented in this phase.
 2) We have used Google Sign-In for Authentication and Cloud Firestore for storing user data.
 3) We have created 6 dummy products to show the working of cart and link sharing.
-4) Each product is assigned with a shareable link.
+4) Each product is assigned with a shareable link. This link can be shared both within in the app and outside the app.
 5) The cart is made fully functional with complete backend integration. Addition and removal of products from cart is possible and is reflected in the database.
 6) We have also implemented the chat and video call feature to make shopping more interesting for users.
-7) The users are able to see all registered users on the app and find their friends to interact. 
-8) They can see whether their friends are offline/online on the app.
-9) With chat feature, users can exchange text messages, images(from camera or from gallery) and even links.
-10) There is also video call feature were people can getogether and shop together. 
-11) Video call feature allows video pause/play, mic mute/unmute and camera toggle features.
+7) We also implemented feature of screen sharing by linking our app to Google meet. Flutter doesn't support screen sharing and has no package for it. But as we had mentioned about screen sharing in our key solutions, we tried our best to implement this feature. 
+8) The users are able to see all registered users on the app and find their friends to interact. 
+9) They can see whether their friends are offline/online on the app.
+10) With chat feature, users can exchange text messages, images(from camera or from gallery) and even links.
+11) There is also video call feature were people can getogether and shop together. 
+12) Video call feature allows video pause/play, mic mute/unmute and camera toggle features.
 
 ## Future Goals
 
